@@ -3,7 +3,7 @@
 - 👀 I’m interested in **AI/ML, FinTech, MedTech, and full-stack app development**  
 - 🌱 I’m currently learning **Deep Learning, Reinforcement Learning, and scalable cloud deployment (AWS, Docker, CI/CD)**  
 - 💞️ I’m looking to collaborate on **AI-driven products, startups, and open-source projects in AI, FinTech, and HealthTech**  
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/mohammed-saaqib-r)** | **Email: mohammedsaaqib21@gmail.com**  
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/mohammed-saaqib-r)** | **Email: saaqibheroindia@gmail.com**  
 
 ---
 
