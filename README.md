@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Mohammed SaaQib R (@saaqibA21)
+# 👋 Hi, I’m Mohammed Saaqib R (@saaqibA21)
 
 - 👀 I’m interested in **AI/ML, FinTech, MedTech, and full-stack app development**  
 - 🌱 I’m currently learning **Deep Learning, Reinforcement Learning, and scalable cloud deployment (AWS, Docker, CI/CD)**  
